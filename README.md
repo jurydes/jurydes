@@ -4,4 +4,4 @@ Focusing on Machine Learning & Deep Learning — my path leads to NLP.
 
 Actively seeking my first commercial role to apply and develop my ML/DL skills.
 
-<img src="meme.jpg" alt="My Profile Picture" width="200" align="right">
+<img src="meme.jpg" alt="Meme" align="center">
